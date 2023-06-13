@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Penny Hua👋</h1>
-<h3 align="left">Data Engineer from Taiwan.</h3>
-<h3 align="center"> An engineer who is enthusiastic about making open-source projects and developing technology to address real-world technical and business challenges.</h3>
+<h3 align="center">Data Engineer from Taiwan.</h3>
+<h5 align="left"> An engineer who is enthusiastic about making open-source projects and developing technology to address real-world technical and business challenges.</h5>
 
 
 <h3 align="left">Connect with me:</h3>
