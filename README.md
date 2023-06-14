@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Penny Hua👋</h1>
 <h3 align="center"> Aspiring Software Engineer from Taiwan.</h3>
-<h7 Arial="left">An aspiring engineer who is enthusiastic about making open-source projects and developing technology to address real-world technical and business challenges.</h7>
+<h7 Arial="left">An aspiring software engineer who always listen to the end user need, and work in the best ability to create products/solutions that generate real value to the customer, and to the society.</h7>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Penny3939/BootCard_Project.git](https://github.com/Penny3939/BootCard_Project.git)
 
